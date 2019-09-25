@@ -1,0 +1,13 @@
+{"Nombre":null,"Apellido":null}
+{"Usuario":"pablo","Contrase\u00f1a":"12345"}
+{"Usuario":"pablo","Contrase\u00f1a":"12345"}
+{"Usuario":"pablo","Contrase\u00f1a":"12345"}
+{"Usuario":"pablo","Contrase\u00f1a":"12345"}
+{"Usuario":"pablo","Contrase\u00f1a":"12345"}
+{"Patente":"VHY 234","Horario":"19:45"}
+{"Usuario":null,"Contrase\u00f1a":null}
+{"Usuario":null,"Contrase\u00f1a":null}
+{"Nombre":"Leandro","Apellido":"Zahora"}
+{"Usuario":null,"Contrase\u00f1a":null}
+{"Usuario":"Leandro","Contrase\u00f1a":"Labarque"}
+{"Usuario":"Leandro","Contrase\u00f1a":"leaLp2304.."}
